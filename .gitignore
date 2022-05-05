@@ -1,0 +1,11 @@
+.client_secret.json
+.storage.json
+.vscode
+__pycache__
+contestants
+token*.pickle
+credentials*.json
+tryAndFail
+Logs
+.env
+contest_log.txt
